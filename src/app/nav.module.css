@@ -1,0 +1,12 @@
+
+.heading{
+     text-align: center;
+     font-size: 10rem;
+     font-weight: bold;
+}
+
+.heading:hover{
+    color:red;
+
+    transition: all 5s;
+}

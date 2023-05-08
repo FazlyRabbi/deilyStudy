@@ -1,0 +1,16 @@
+
+Date : 08/05/2023
+
+Assignment : 
+
+1. Explore What is Props in React?
+
+2. Make One Parants Component
+
+3. Create 5 Components and makes these Child Components
+
+4. Create 3 methods in Parants Component
+
+5. Pass the state and methods from parants Component to child Components as Props
+
+6. Call the method from child Components and also call setState
