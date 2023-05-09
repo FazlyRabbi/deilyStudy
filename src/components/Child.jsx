@@ -1,8 +1,9 @@
 import React from "react";
 
 export default function Child({ name, setName, handleSum }) {
+
   const handleChange = () => {
-    setName("rabbi");
+    setName("rafsbbi");
   };
 
   return (
